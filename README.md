@@ -6,6 +6,7 @@ Topics you need to learn inorder to join our team and work together.
 ## Golang
 * Programming Fundamentals
 * [Json Encoding/Decoding](https://www.sohamkamani.com/golang/json/) with Struct https://gobyexample.com/json
+* [File Manipulation](https://www.devdungeon.com/content/working-files-go)
 * net/http package
 * Go template
 
