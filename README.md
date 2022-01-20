@@ -27,5 +27,5 @@ Topics you need to learn inorder to join our team and work together.
 
 ## Frontend:
 * Jquery
-* Vanilla Script (Pure Javascript)
+* [Vanilla Script -> Pure Javascript](https://www.youtube.com/playlist?list=PLillGF-RfqbbnEGy3ROiLWk7JMCuSyQtX)
 * [Material.io](https://www.youtube.com/playlist?list=PLZij6bgEHkTXb_1OBDRHGFu7YWtMTkAU9)
