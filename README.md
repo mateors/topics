@@ -4,7 +4,7 @@ Topics you need to learn inorder to join our team and work together.
 ### Golang Terms You need to become master to work with MATEORS TEAM.
 
 ## [Golang](https://www.youtube.com/watch?v=C8LgvuEBraI)
-* Programming Fundamentals
+* [Programming Fundamentals](https://go.dev/doc/effective_go)
 * [Json Encoding/Decoding](https://www.sohamkamani.com/golang/json/) with Struct https://gobyexample.com/json
 * [File Manipulation](https://www.devdungeon.com/content/working-files-go)
 * [HTML Form handling](https://www.youtube.com/watch?v=8MApY-88pWE)
