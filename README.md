@@ -15,7 +15,7 @@ Topics you need to learn inorder to join our team and work together.
 * Goroutines
 * Channels
 * golang resource pool
-* golang connection pool
+* [golang connection pool](https://developpaper.com/several-implementation-cases-of-golang-connection-pool/)
 
 ## Database:
 * SQL Basic & Advance Query
