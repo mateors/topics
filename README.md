@@ -21,11 +21,13 @@ Topics you need to learn inorder to join our team and work together.
 
 ## Database:
 * SQL Basic & Advance Query
-* Couchbase
-* Mysql
+* [Couchbase] (https://www.youtube.com/watch?v=aNAgIJaIcQQ)
+* [Mysql](https://www.youtube.com/watch?v=7S_tz1z_5bA)
 * Sqlite3
 
 ## Frontend:
-* Jquery
+* [Js or Jquery](https://www.youtube.com/watch?v=W6NZfCO5SIk)
+* [Asyncronous JS](https://www.youtube.com/watch?v=drK6mdA9d_M)[Another](https://www.youtube.com/watch?v=PoRJizFvM7s)
 * [Vanilla Script -> Pure Javascript](https://www.youtube.com/playlist?list=PLillGF-RfqbbnEGy3ROiLWk7JMCuSyQtX)
 * [Material.io](https://www.youtube.com/playlist?list=PLZij6bgEHkTXb_1OBDRHGFu7YWtMTkAU9)
+
