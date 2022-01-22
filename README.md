@@ -15,7 +15,7 @@ Topics you need to learn inorder to join our team and work together.
 
 ## [Concurrency](https://www.youtube.com/watch?v=LvgVSSpwND8)
 * Simple concurrency (https://www.youtube.com/watch?v=3atNYmqXyV4)
-* WaitGroup
+* [WaitGroup](https://www.youtube.com/watch?v=0BPSR-W4GSY)
 * Goroutines
 * [Channels](https://www.youtube.com/watch?v=VkGQFFl66X4)
 * [Interface](https://www.youtube.com/watch?v=VkGQFFl66X4) [ToddMcleod](https://www.youtube.com/watch?v=gfoVLXQ5ujM)
