@@ -17,7 +17,7 @@ Topics you need to learn inorder to join our team and work together.
 * Simple concurrency (https://www.youtube.com/watch?v=3atNYmqXyV4)
 * WaitGroup
 * Goroutines
-* Channels
+* [Channels](https://www.youtube.com/watch?v=VkGQFFl66X4)
 * [Interface](https://www.youtube.com/watch?v=VkGQFFl66X4) [ToddMcleod](https://www.youtube.com/watch?v=gfoVLXQ5ujM)
 * golang resource pool
 * [golang connection pool](https://developpaper.com/several-implementation-cases-of-golang-connection-pool/)
