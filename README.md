@@ -19,8 +19,8 @@ Topics you need to learn inorder to join our team and work together.
 * Goroutines
 * [Channels](https://www.youtube.com/watch?v=VkGQFFl66X4)
 * [Interface](https://www.youtube.com/watch?v=VkGQFFl66X4) [ToddMcleod](https://www.youtube.com/watch?v=gfoVLXQ5ujM)
-* golang resource pool
-* [golang connection pool](https://developpaper.com/several-implementation-cases-of-golang-connection-pool/)
+* [Golang Resource Pool](https://www.youtube.com/watch?v=G33OlABzxW8)
+* [Golang connection pool](https://developpaper.com/several-implementation-cases-of-golang-connection-pool/)
 
 ## Database:
 * SQL Basic & Advance Query
