@@ -26,7 +26,7 @@ Topics you need to learn inorder to join our team and work together.
 * SQL Basic & Advance Query
 * [Couchbase](https://www.youtube.com/watch?v=aNAgIJaIcQQ) [mcb package](https://github.com/mateors/mcb)
 * [Mysql](https://www.youtube.com/watch?v=7S_tz1z_5bA) [msql package](https://github.com/mateors/msql)
-* Sqlite3
+* [Sqlite3](https://github.com/mateors/msql) [DbBrowser](https://sqlitebrowser.org/)
 
 ## Frontend:
 * [Js or Jquery](https://www.youtube.com/watch?v=W6NZfCO5SIk)
