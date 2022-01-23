@@ -14,7 +14,7 @@ Topics you need to learn inorder to join our team and work together.
 * [Golang template](https://www.youtube.com/playlist?list=PLZij6bgEHkTV2bk485fynqlK2SrTD2zkb)
 
 ## [Concurrency](https://www.youtube.com/watch?v=LvgVSSpwND8)
-* [Simple concurrency] (https://www.youtube.com/watch?v=3atNYmqXyV4)
+* [Simple concurrency](https://www.youtube.com/watch?v=3atNYmqXyV4)
 * [WaitGroup](https://www.youtube.com/watch?v=0BPSR-W4GSY)
 * [Goroutines](https://www.youtube.com/watch?v=CYWVM-u0AuY)
 * [Channels](https://www.youtube.com/watch?v=VkGQFFl66X4)
