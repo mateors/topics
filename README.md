@@ -6,7 +6,7 @@ Topics you need to learn inorder to join our team and work together.
 ## [Golang](https://www.youtube.com/watch?v=C8LgvuEBraI)
 * [Programming Fundamentals](https://go.dev/doc/effective_go)
 * [Json Encoding/Decoding](https://www.sohamkamani.com/golang/json/) with Struct https://gobyexample.com/json
-* [File Manipulation](https://www.devdungeon.com/content/working-files-go)
+* [File Manipulation](https://www.devdungeon.com/content/working-files-go) [File Upload, Progress bar](https://freshman.tech/file-upload-golang/)
 * [Excel file handling](https://github.com/qax-os/excelize)
 * [HTML Form handling](https://www.youtube.com/watch?v=8MApY-88pWE)
 * [net/http package](https://www.youtube.com/watch?v=Ppw5UluP2R8)
