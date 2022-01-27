@@ -29,7 +29,7 @@ Topics you need to learn inorder to join our team and work together.
 * [Sqlite3](https://github.com/mateors/msql) [DbBrowser](https://sqlitebrowser.org/)
 
 ## Frontend:
-* [Js or Jquery](https://www.youtube.com/watch?v=W6NZfCO5SIk)
+* [Js or Jquery](https://www.youtube.com/watch?v=W6NZfCO5SIk) [JS Form Elements](https://gomakethings.com/getting-all-of-a-forms-elements-with-vanilla-js/)
 * [Asyncronous JS](https://www.youtube.com/watch?v=drK6mdA9d_M)[Another](https://www.youtube.com/watch?v=PoRJizFvM7s)
 * [Vanilla Script -> Pure Javascript](https://www.youtube.com/playlist?list=PLillGF-RfqbbnEGy3ROiLWk7JMCuSyQtX)
 * [Material.io](https://www.youtube.com/playlist?list=PLZij6bgEHkTXb_1OBDRHGFu7YWtMTkAU9)
