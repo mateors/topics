@@ -13,7 +13,8 @@
 
 
 ## Automation
-[Golang Desktop Automation](https://github.com/go-vgo/robotgo)
+* [Golang Desktop Automation](https://github.com/go-vgo/robotgo)
+* [File System Watcher](https://github.com/fsnotify/fsnotify)
 
 ## Database
 * [Data Migration service](https://github.com/golang-migrate/migrate)
