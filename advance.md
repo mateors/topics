@@ -18,7 +18,10 @@
 
 ## Automation
 * [Golang Desktop Automation](https://github.com/go-vgo/robotgo)
-* [File System Watcher](https://github.com/fsnotify/fsnotify)
+* [File System Watcher](https://github.com/fsnotify/fsnotify)\
+
+## 2D Game
+* https://github.com/hajimehoshi/ebiten
 
 ## Database
 * [Data Migration service](https://github.com/golang-migrate/migrate)
