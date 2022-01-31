@@ -15,6 +15,8 @@
 ## Blockchain system
 * https://github.com/IBAX-io/go-ibax
 
+## PWA
+* [Progressive Web APP](https://github.com/maxence-charriere/go-app)
 
 ## Automation
 * [Golang Desktop Automation](https://github.com/go-vgo/robotgo)
