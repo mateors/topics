@@ -27,6 +27,7 @@ Topics you need to learn inorder to join our team and work together.
 * [Couchbase](https://www.youtube.com/watch?v=aNAgIJaIcQQ) [mcb package](https://github.com/mateors/mcb)
 * [Mysql](https://www.youtube.com/watch?v=7S_tz1z_5bA) [msql package](https://github.com/mateors/msql)
 * [Sqlite3](https://github.com/mateors/msql) [DbBrowser](https://sqlitebrowser.org/)
+* [KAFKA implemented in go](https://github.com/travisjeffery/jocko)
 
 ## Frontend:
 * [Js or Jquery](https://www.youtube.com/watch?v=W6NZfCO5SIk) [JS Form Elements](https://gomakethings.com/getting-all-of-a-forms-elements-with-vanilla-js/)
