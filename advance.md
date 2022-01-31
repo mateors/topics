@@ -6,6 +6,9 @@
 * [Vulnerability scanner](https://github.com/future-architect/vuls)
 * [Access all your infrastructure](https://github.com/gravitational/teleport)
 
+## Automation
+[Golang Desktop Automation](https://github.com/go-vgo/robotgo)
+
 ## Database
 * [Data Migration service](https://github.com/golang-migrate/migrate)
 
