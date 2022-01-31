@@ -32,6 +32,9 @@
 * https://github.com/nats-io/nats-server
 * [TCP/UDP Tunnel](https://github.com/jpillora/chisel)
 
+## Proxy
+* [Proxies to bypass network restrictions](https://github.com/v2fly/v2ray-core)
+
 ## Video Streaming
 * [Live GO](https://github.com/gwuhaolin/livego)
 
