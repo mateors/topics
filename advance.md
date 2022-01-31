@@ -54,5 +54,6 @@
 ## Video Streaming
 * [Live GO](https://github.com/gwuhaolin/livego)
 
-## Go Plus
-[STEM, Data Science](https://github.com/goplus/gop)
+## Go Plus | Data science
+* [STEM, Data Science](https://github.com/goplus/gop)
+* [OpenCV & more](https://github.com/hybridgroup/gocv)
