@@ -8,7 +8,9 @@
 * [net/http alternative for all](https://github.com/panjf2000/gnet)
 * [Search engine like elastic search](https://github.com/prabhatsharma/zinc)
 
-## [API Development][https://swagger.io]
+## API Development
+* https://swagger.io
+* https://github.com/swaggo/swag
 
 ## HTTP3 / QUIC
 * [QUIC Implementation]https://github.com/lucas-clemente/quic-go
