@@ -22,6 +22,7 @@
 ## Communication
 * [Chat engine](https://github.com/tinode/chat)
 * [Transfer files over wifi](https://github.com/claudiodangelis/qrcp)
+* [Like wechat](https://github.com/OpenIMSDK/Open-IM-Server)
 
 ## Tunnel
 * https://github.com/ginuerzh/gost
