@@ -18,6 +18,12 @@
 ## PWA
 * [Progressive Web APP](https://github.com/maxence-charriere/go-app)
 
+## Desktop app using web tech
+* https://github.com/wailsapp/wails
+
+## Security checker
+* [Golang Security Checker](https://github.com/securego/gosec)
+
 ## Automation
 * [Golang Desktop Automation](https://github.com/go-vgo/robotgo)
 * [File System Watcher](https://github.com/fsnotify/fsnotify)\
