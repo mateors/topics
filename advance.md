@@ -57,6 +57,10 @@
 ## Go Plus | Data science
 * [STEM, Data Science](https://github.com/goplus/gop)
 * [OpenCV & more](https://github.com/hybridgroup/gocv)
+* https://github.com/gonum/gonum
+
+> DataFrame and GoNum are similar to Python’s NumPy and are often used to manipulate DataFrame objects.
+* [Golang-for-machine-learning](https://towardsdatascience.com/golang-for-machine-learning-bd4bb84594ee)
 
 ## IOT
 * https://gobot.io
