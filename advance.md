@@ -60,3 +60,4 @@
 
 ## IOT
 * https://gobot.io
+* [IOT Cloud Platform](https://github.com/mainflux/mainflux)
