@@ -62,6 +62,8 @@
 > DataFrame and GoNum are similar to Python’s NumPy and are often used to manipulate DataFrame objects.
 * [Golang-for-machine-learning](https://towardsdatascience.com/golang-for-machine-learning-bd4bb84594ee)
 
+> GoLearn package. GoLearn is a machine learning library in GoLang that is similar to Python’s sklearn. It allows for easy matrix manipulation, construction of ML algorithms, model fitting, and even data splitting for training/evaluation processes.
+
 ## IOT
 * https://gobot.io
 * [IOT Cloud Platform](https://github.com/mainflux/mainflux)
