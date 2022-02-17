@@ -12,7 +12,7 @@ Topics you need to learn inorder to join our team and work together.
 * [net/http package](https://www.youtube.com/watch?v=Ppw5UluP2R8)
 * [HTTP Request Headers](https://www.youtube.com/watch?v=Yze5teXROZE)
 * [Golang template](https://www.youtube.com/playlist?list=PLZij6bgEHkTV2bk485fynqlK2SrTD2zkb)
-* [JWT-for-Authentication-](https://learn.vonage.com/blog/2020/03/13/using-jwt-for-authentication-in-a-golang-application-dr/#)
+* [JWT-for-Authentication](https://learn.vonage.com/blog/2020/03/13/using-jwt-for-authentication-in-a-golang-application-dr)
 
 ## [Concurrency](https://www.youtube.com/watch?v=LvgVSSpwND8)
 * [Simple concurrency](https://www.youtube.com/watch?v=3atNYmqXyV4)
