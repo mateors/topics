@@ -24,6 +24,7 @@ Topics you need to learn inorder to join our team and work together.
 * [Interface](https://www.youtube.com/watch?v=VkGQFFl66X4) [ToddMcleod](https://www.youtube.com/watch?v=gfoVLXQ5ujM)
 * [Golang Resource Pool](https://www.youtube.com/watch?v=G33OlABzxW8)
 * [Golang connection pool](https://developpaper.com/several-implementation-cases-of-golang-connection-pool/)
+* [Concurrency-Parallelism](https://levelup.gitconnected.com/a-crash-course-on-concurrency-parallelism-in-go-8ea935c9b0f8)
 
 ## Database:
 * SQL Basic & Advance Query
